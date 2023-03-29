@@ -5,4 +5,4 @@
    :maxdepth: 2
    
    功能列表
-   最佳时间/index
+   最佳实践/index
