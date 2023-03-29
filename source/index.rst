@@ -9,6 +9,7 @@ Welcome to PopGenomics CLI's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   软件简介
 
 
 
