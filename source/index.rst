@@ -13,3 +13,4 @@ Welcome to PopGenomics CLI's documentation!
    软件简介
    阿里云基因分析平台/index
    火山引擎Bio-OS/index
+   版本更新
