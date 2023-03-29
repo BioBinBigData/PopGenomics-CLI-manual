@@ -8,14 +8,8 @@ Welcome to PopGenomics CLI's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 内容:
+
    软件简介
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   阿里云基因分析平台/index
+   火山引擎Bio-OS/index
