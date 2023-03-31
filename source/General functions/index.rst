@@ -1,7 +1,7 @@
-通用功能
+General functions
 ================================================================
 
 .. toctree::
    :maxdepth: 2
 
-   功能列表
+   Function list

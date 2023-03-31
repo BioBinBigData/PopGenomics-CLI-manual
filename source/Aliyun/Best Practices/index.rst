@@ -1,8 +1,7 @@
-阿里基因分析平台
+Best Practices
 ================================================================
 
 .. toctree::
    :maxdepth: 2
-   
-   功能列表
-   最佳实践/index
+
+   Single task submit

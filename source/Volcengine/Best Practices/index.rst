@@ -1,8 +1,7 @@
-火山引擎Bio-OS
+Best Practices
 ================================================================
 
 .. toctree::
    :maxdepth: 2
-   
-   功能列表
-   最佳实践/index
+
+   Mult-task submission

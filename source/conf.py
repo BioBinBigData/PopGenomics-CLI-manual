@@ -20,7 +20,8 @@ extensions = ['recommonmark', 'sphinx_markdown_tables']
 templates_path = ['_templates']
 exclude_patterns = []
 
-language = 'zh_CN'
+# language = 'zh_CN'
+language = 'en'
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output

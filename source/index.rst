@@ -3,15 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PopGenomics CLI 文档
+PopGenomics CLI Document
 ===========================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: 内容:
+   :caption: contents:
 
-   软件简介
-   通用功能/index
-   阿里云基因分析平台/index
-   火山引擎Bio-OS/index
-   版本更新
+   Software Introduction
+   Installation
+   General functions/index
+   Volcengine/index
+   Aliyun/index
+   Version update
