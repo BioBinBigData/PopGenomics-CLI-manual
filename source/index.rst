@@ -8,7 +8,7 @@ PopGenomics CLI Document
 
 .. toctree::
    :maxdepth: 2
-   :caption: contents:
+   :caption: Contents:
 
    Software Introduction
    Installation
