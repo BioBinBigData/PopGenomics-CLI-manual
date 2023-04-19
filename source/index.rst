@@ -5,10 +5,9 @@
 
 PopGenomics CLI Document
 ===========================================
-.. figure:: ./media/picture/logo/PopGenomics.PNG
+.. image:: ./media/picture/logo/PopGenomics.PNG
    :alt: Popgenomics logo
    :align: left
-   :caption: Popgenomics logo
 
 .. toctree::
    :maxdepth: 3
