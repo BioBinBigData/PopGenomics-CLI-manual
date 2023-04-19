@@ -3,11 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-PopGenomics CLI Document
-===========================================
+
 .. image:: ./media/picture/logo/PopGenomics.PNG
    :alt: Popgenomics logo
-   :align: left
+
+.. image:: ./media/picture/logo/biobin.png
+   :alt: Biobin logo
+
+PopGenomics CLI Document
+===========================================
 
 .. toctree::
    :maxdepth: 3
