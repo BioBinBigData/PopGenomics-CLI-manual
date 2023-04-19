@@ -3,6 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. figure: ./media/picture/logo/PopGenomics.PNG
+   :alt: Popgenomics logo
+   :align: left
+   :caption: Popgenomics logo
+
 PopGenomics CLI Document
 ===========================================
 
@@ -16,3 +21,5 @@ PopGenomics CLI Document
    Volcengine/index
    Aliyun/index
    Version update
+
+   
