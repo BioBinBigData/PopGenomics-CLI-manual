@@ -46,6 +46,7 @@ The 3 constant parameters write directly in the json, while the last 3 dynamic p
 
 ## 2. Data model preparation
 We suppose you have already uploaded your raw fastq files on the volcengine TOS (Tinder Object Storage) in **Beijing** region,if not you can follow [tosutil upload data](https://www.volcengine.com/docs/6349/152752). And you need to get all the fastq files tos path(change path prefix from `tos://` to `s3://`) and organize them to a meta data table in `CSV` format like this:
+
 |sample_name|fastq1|fastq2|
 |:---:|:--:|:---:|
 |sample1|s3://bucket_name/path/to/sample1_1.fastq.gz|s3://bucket_name/path/to/sample1_2.fastq.gz|
