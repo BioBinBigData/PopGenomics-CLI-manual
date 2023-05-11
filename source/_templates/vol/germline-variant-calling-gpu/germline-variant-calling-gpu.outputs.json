@@ -1,0 +1,23 @@
+{
+    "germline_variant_calling_gpu.bam_flagstat": "this.bam_flagstat",
+    "germline_variant_calling_gpu.bases": "this.bases",
+    "germline_variant_calling_gpu.cleaned_fq": "this.cleaned_fq",
+    "germline_variant_calling_gpu.depth": "this.depth",
+    "germline_variant_calling_gpu.fastp_report": "this.fastp_report",
+    "germline_variant_calling_gpu.interval_gvcf": "this.interval_gvcf",
+    "germline_variant_calling_gpu.interval_vcf": "this.interval_vcf",
+    "germline_variant_calling_gpu.length": "this.length",
+    "germline_variant_calling_gpu.mapped_rate": "this.mapped_rate",
+    "germline_variant_calling_gpu.mapped_reads": "this.mapped_reads",
+    "germline_variant_calling_gpu.mosdepth_res": "this.mosdepth_res",
+    "germline_variant_calling_gpu.outGVCF": "this.outGVCF",
+    "germline_variant_calling_gpu.outGVCFtbi": "this.outGVCFtbi",
+    "germline_variant_calling_gpu.outVCF": "this.outVCF",
+    "germline_variant_calling_gpu.outputBAI": "this.outputBAI",
+    "germline_variant_calling_gpu.outputBAM": "this.outputBAM",
+    "germline_variant_calling_gpu.properly_paired": "this.properly_paired",
+    "germline_variant_calling_gpu.properly_paired_rate": "this.properly_paired_rate",
+    "germline_variant_calling_gpu.stat_summary": "this.stat_summary",
+    "germline_variant_calling_gpu.total_reads": "this.total_reads",
+    "germline_variant_calling_gpu.vcf_stat": "this.vcf_stat"
+}

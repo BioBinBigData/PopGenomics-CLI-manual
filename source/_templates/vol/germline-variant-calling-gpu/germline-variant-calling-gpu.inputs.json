@@ -1,0 +1,8 @@
+{
+    "germline_variant_calling_gpu.if_split_variant": "Boolean",
+    "germline_variant_calling_gpu.inputFASTQ_1": "File",
+    "germline_variant_calling_gpu.inputFASTQ_2": "File",
+    "germline_variant_calling_gpu.inputRefTarball": "File",
+    "germline_variant_calling_gpu.interval_tar": "File",
+    "germline_variant_calling_gpu.sample_name": "String"
+}
