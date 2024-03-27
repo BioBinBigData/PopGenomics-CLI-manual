@@ -21,6 +21,7 @@ PopGenomics CLI Document
    Installation
    General functions/index
    Volcengine/index
+   Volcengine-pipeline/index
    Aliyun/index
    Version update
 
