@@ -53,7 +53,7 @@ We suppose you have already uploaded your raw fastq files on the volcengine TOS 
 |sample2|s3://bucket_name/path/to/sample2_1.fastq.gz|s3://bucket_name/path/to/sample2_2.fastq.gz|
 |sample3|s3://bucket_name/path/to/sample3_1.fastq.gz|s3://bucket_name/path/to/sample3_2.fastq.gz|
 
-The rules to organize the meata CSV file are:
+The rules to organize the meta CSV file are:
 1. The CSV file has header line.
 2. The column names must include the sufix of parameters in the inputs json file which with `this.` prefix. For example: if you have a parameter `this.sample_name` in the inputs json file, you must have a column name `sample_name` in the CSV file.
 3. The elements of the first column of the table must be unique 

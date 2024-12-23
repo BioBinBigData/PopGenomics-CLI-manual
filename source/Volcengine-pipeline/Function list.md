@@ -74,3 +74,13 @@ multi sample variant calling and joint calling pipeline
 | -c, --config     | false    |               | input config file in json format |
 | -o, --outdir     | false    |               | output dir path                  |
 
+## quick-submit
+quick submit workflow with meta data corresponding to the workflow
+
+| Argument name(s) | Optional | Default value | Summary                                                      |
+| ---------------- | -------- | ------------- | ------------------------------------------------------------ |
+| -c, --config     | false    |               | input config file in JSON format，param names must match WDL inputs JSON |
+| -o, --outdir     | false    |               | output directory path                                        |
+| -m --meta-data   | false    |               | the meta data of the samples you want to submit,             |
+| -a --app_name    | false    |               | workflow name,which workflow you want to run                 |
+| --if-mount       | true     | False         | if mount TOS, if True the input data will not take up disk space and data input to the computing environment will be faster. |
